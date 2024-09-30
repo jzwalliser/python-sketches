@@ -1,0 +1,1 @@
+pyinstaller -F -w --hidden-import PIL --hidden-import tkinter --hidden-import pyperclip --hidden-import pyzbar -i icon.ico --add-data=icon_clear.ico:. --add-data=libiconv.dll:./pyzbar/ --add-data=libzbar-64.dll:./pyzbar/ QRCodeReader.py
