@@ -1,0 +1,7 @@
+import os
+import tkinter
+print("a")
+print("f**k maths")
+os.system('pause')
+root = tkinter.Tk()
+root.mainloop()

@@ -1,0 +1,11 @@
+import os
+print("欢迎使用Seewo爆焯器")
+os.system("pause")
+while True:
+    os.system("taskkill /F /IM SeewoServiceAssistant.exe")
+    os.system("taskkill /F /IM SeewoHugoLauncher.exe")
+    os.system("taskkill /F /IM SeewoCore.exe")
+    os.system("taskkill /F /IM SeewoAbility.exe")
+
+
+

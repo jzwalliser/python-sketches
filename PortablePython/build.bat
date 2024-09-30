@@ -1,0 +1,2 @@
+pyinstaller -F --hidden-import tkinter --hidden-import turtle --hidden-import psutil --hidden-import pynput --hidden-import pygame file.py
+pyinstaller -F -w -n filew.exe --hidden-import tkinter --hidden-import turtle --hidden-import psutil --hidden-import pynput --hidden-import pygame file.py
