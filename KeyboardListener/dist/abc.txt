@@ -1,0 +1,1 @@
+Key.cmd'e'Key.ctrl_l'\x0e'Key.enterKey.enterKey.cmd'e'Key.ctrl_l'\x03'Key.ctrl_l'\x03'Key.ctrl_l'\x16'

@@ -1,0 +1,1 @@
+pyinstaller -F -w file.py --hidden-import pynput
