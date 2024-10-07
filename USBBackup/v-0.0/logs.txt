@@ -1,0 +1,2095 @@
+Directory created: D:/abc
+Directory created: D:/abc/电视梯子
+File Copied: F://电视梯子/dangbeimarket_4.0.7_155_0127_4e45911_release_141_znds_.apk => D:/abc/电视梯子/dangbeimarket_4.0.7_155_0127_4e45911_release_141_znds_.apk
+Filtered out: F://电视梯子/WirelessProjection.exe
+File Copied: F://电视梯子/卫星电视收费破解(不要更新）.apk => D:/abc/电视梯子/卫星电视收费破解(不要更新）.apk
+Filtered out: F://电视梯子/channel.txt
+Directory created: D:/abc/陈逸轩
+Directory created: D:/abc/陈逸轩/新闻
+Filtered out: F://陈逸轩/新闻/0702陈逸轩新闻播报.pptx
+Directory created: D:/abc/陈逸轩/课件
+Filtered out: F://陈逸轩/课件/2.1新民主主义革命的胜利 23版.pptx
+Filtered out: F://陈逸轩/课件/《中国特色社会主义》第一课  知识梳理.docx
+Filtered out: F://陈逸轩/课件/1.1 原始社会的解体和阶级社会的演进 课件-2023-2024学年高中政治统编版必修一中国特色社会主义.pptx
+Filtered out: F://陈逸轩/课件/1.1 原始社会的解体和阶级社会的演进21.pptx
+Filtered out: F://陈逸轩/课件/1.1第一课时 原始社会的解体和阶级社会的演进 卢.pptx
+Filtered out: F://陈逸轩/课件/竖直上抛.pptx
+Filtered out: F://陈逸轩/课件/高一历史第一单元背诵默写提纲.docx
+Filtered out: F://陈逸轩/课件/高一历史第一单元背诵默写提纲（空格版）.docx
+Filtered out: F://陈逸轩/第5课.pptx
+Filtered out: F://陈逸轩/第6课.pptx
+Filtered out: F://陈逸轩/第7课.pptx
+Filtered out: F://陈逸轩/第8课.pptx
+Filtered out: F://陈逸轩/高一历史第二单元背诵提纲.docx
+Filtered out: F://陈逸轩/高一历史第一单元 默写提纲.docx
+Filtered out: F://陈逸轩/[阳光电影www.ygdy8.com].十二公民.HD.720p.国语中字.rmvb
+Directory created: D:/abc/以撒
+Filtered out: F://以撒/ISAAC.exe
+Filtered out: F://以撒/myFile.txt
+Filtered out: F://以撒/serial.txt
+File Copied: F://小苹果影视盒子1.0.8.apk => D:/abc/小苹果影视盒子1.0.8.apk
+Directory created: D:/abc/屑
+Filtered out: F://屑/ali213.bin
+Filtered out: F://屑/api-ms-win-core-console-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-datetime-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-debug-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-errorhandling-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-file-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-file-l1-2-0.dll
+Filtered out: F://屑/api-ms-win-core-file-l2-1-0.dll
+Filtered out: F://屑/api-ms-win-core-handle-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-heap-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-interlocked-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-libraryloader-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-localization-l1-2-0.dll
+Filtered out: F://屑/api-ms-win-core-memory-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-namedpipe-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-processenvironment-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-processthreads-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-processthreads-l1-1-1.dll
+Filtered out: F://屑/api-ms-win-core-profile-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-rtlsupport-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-string-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-synch-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-synch-l1-2-0.dll
+Filtered out: F://屑/api-ms-win-core-sysinfo-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-timezone-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-core-util-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-conio-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-convert-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-environment-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-filesystem-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-heap-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-locale-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-math-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-multibyte-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-private-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-process-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-runtime-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-stdio-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-string-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-time-l1-1-0.dll
+Filtered out: F://屑/api-ms-win-crt-utility-l1-1-0.dll
+Filtered out: F://屑/chroma.hdll
+Filtered out: F://屑/d3dcompiler_47.dll
+Directory created: D:/abc/Stacklands
+Filtered out: F://Stacklands/Stacklands.exe
+Filtered out: F://Stacklands/UnityCrashHandler64.exe
+Filtered out: F://Stacklands/UnityPlayer.dll
+Directory created: D:/abc/Stacklands/MonoBleedingEdge
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/EmbedRuntime
+Filtered out: F://Stacklands/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+Filtered out: F://Stacklands/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/browscap.ini
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/config
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/2.0
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/2.0/machine.config
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/2.0/settings.map
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/2.0/web.config
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/2.0/Browsers
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/4.0
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.0/machine.config
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.0/settings.map
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.0/web.config
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/4.0/Browsers
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/4.5
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.5/machine.config
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.5/settings.map
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.5/web.config
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/4.5/Browsers
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+Directory created: D:/abc/Stacklands/MonoBleedingEdge/etc/mono/mconfig
+Filtered out: F://Stacklands/MonoBleedingEdge/etc/mono/mconfig/config.xml
+Directory created: D:/abc/Stacklands/Stacklands_Data
+Filtered out: F://Stacklands/Stacklands_Data/app.info
+Filtered out: F://Stacklands/Stacklands_Data/boot.config
+Filtered out: F://Stacklands/Stacklands_Data/globalgamemanagers
+Filtered out: F://Stacklands/Stacklands_Data/globalgamemanagers.assets
+Filtered out: F://Stacklands/Stacklands_Data/level0
+Filtered out: F://Stacklands/Stacklands_Data/level0.resS
+Filtered out: F://Stacklands/Stacklands_Data/level1
+Filtered out: F://Stacklands/Stacklands_Data/resources.assets
+Filtered out: F://Stacklands/Stacklands_Data/resources.assets.resS
+Filtered out: F://Stacklands/Stacklands_Data/resources.resource
+Filtered out: F://Stacklands/Stacklands_Data/RuntimeInitializeOnLoads.json
+Filtered out: F://Stacklands/Stacklands_Data/ScriptingAssemblies.json
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets0.assets
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets0.assets.resS
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets0.resource
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets1.assets
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets1.assets.resS
+Filtered out: F://Stacklands/Stacklands_Data/sharedassets1.resource
+Directory created: D:/abc/Stacklands/Stacklands_Data/Managed
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Assembly-CSharp-firstpass.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Assembly-CSharp.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/com.rlabrecque.steamworks.net.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/DOTween.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/DOTween.Modules.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/GameScripts.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Mono.Security.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/mscorlib.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/netstandard.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Newtonsoft.Json.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/ShapesRuntime.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Sirenix.OdinInspector.Attributes.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Sirenix.OdinInspector.CompatibilityLayer.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Sirenix.Serialization.Config.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Sirenix.Serialization.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Sirenix.Utilities.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/SokLoc.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/SteamManager.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.ComponentModel.Composition.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Configuration.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Core.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Data.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Diagnostics.StackTrace.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Drawing.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.EnterpriseServices.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Globalization.Extensions.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.IO.Compression.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.IO.Compression.FileSystem.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Net.Http.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Numerics.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Runtime.Serialization.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Runtime.Serialization.Xml.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.ServiceModel.Internals.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Transactions.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Xml.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Xml.Linq.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/System.Xml.XPath.XDocument.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.Analytics.DataPrivacy.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.InputSystem.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.InternalAPIEngineBridge.003.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.Postprocessing.Runtime.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.TextMeshPro.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.Timeline.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/Unity.VectorGraphics.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AccessibilityModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AIModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AndroidJNIModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AnimationModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ARModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AssetBundleModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.AudioModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ClothModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ClusterInputModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ClusterRendererModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.CoreModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.CrashReportingModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.DirectorModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.DSPGraphModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.GameCenterModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.GIModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.GridModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.HotReloadModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ImageConversionModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.IMGUIModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.InputLegacyModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.InputModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.JSONSerializeModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.LocalizationModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ParticleSystemModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.Physics2DModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.PhysicsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ProfilerModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.SharedInternalsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.SpriteMaskModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.SpriteShapeModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.StreamingModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.SubstanceModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.SubsystemsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TerrainModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TextCoreModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TextRenderingModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TilemapModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.TLSModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UI.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UIElementsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UIElementsNativeModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UIModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UmbraModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UNETModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityConnectModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityCurlModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.VehiclesModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.VFXModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.VideoModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.VRModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.WindModule.dll
+Filtered out: F://Stacklands/Stacklands_Data/Managed/UnityEngine.XRModule.dll
+Directory created: D:/abc/Stacklands/Stacklands_Data/Plugins
+Filtered out: F://Stacklands/Stacklands_Data/Plugins/Steamworks.NET.txt
+Directory created: D:/abc/Stacklands/Stacklands_Data/Plugins/x86_64
+Filtered out: F://Stacklands/Stacklands_Data/Plugins/x86_64/steam_api64.dll
+Filtered out: F://Stacklands/Stacklands_Data/Plugins/x86_64/steam_api64.dll.license
+Filtered out: F://Stacklands/Stacklands_Data/Plugins/x86_64/steam_appid.txt
+Directory created: D:/abc/Stacklands/Stacklands_Data/Resources
+Filtered out: F://Stacklands/Stacklands_Data/Resources/unity default resources
+Filtered out: F://Stacklands/Stacklands_Data/Resources/unity_builtin_extra
+Directory created: D:/abc/Stacklands/Steam
+Directory created: D:/abc/Stacklands/Steam/depotcache
+Filtered out: F://Stacklands/Steam/depotcache/1948281_2142209531189623233.manifest
+Directory created: D:/abc/Stacklands/Steam/steamapps
+Filtered out: F://Stacklands/Steam/steamapps/appmanifest_1948280.acf
+Filtered out: F://install.txt
+Directory created: D:/abc/System Volume Information
+Filtered out: F://System Volume Information/IndexerVolumeGuid
+Filtered out: F://System Volume Information/WPSettings.dat
+Filtered out: F://研究力与质量与加速度的关系.pptx
+Filtered out: F://4.1原子结构 (1).pptx
+Filtered out: F://2.3.1物质进出细胞的方式（第二课时）.pptx
+Filtered out: F://automatic.py
+Filtered out: F://力学单位制.pptx
+Filtered out: F://牛顿运动定律的应用.pptx
+Filtered out: F://第10课.pptx
+Directory created: D:/abc/杨欣
+Directory created: D:/abc/杨欣/留学
+Directory created: D:/abc/杨欣/留学/乔治城
+Filtered out: F://杨欣/留学/乔治城/Accepting your Offer (7.26.17).pdf
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (1).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (2).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (3).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (4).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (5).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (6).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (7).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (8).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY (9).dat
+Filtered out: F://杨欣/留学/乔治城/CEACAA0075MHXY.dat
+Filtered out: F://杨欣/留学/乔治城/funds.png
+Filtered out: F://杨欣/留学/乔治城/passport.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT.zip
+Filtered out: F://杨欣/留学/乔治城/Re_ Re_ Re_ Re_ Fwd_ Georgetown Law Offer of Admission.zip
+Filtered out: F://杨欣/留学/乔治城/uems.png
+Filtered out: F://杨欣/留学/乔治城/uems1.png
+Filtered out: F://杨欣/留学/乔治城/uems2.png
+Filtered out: F://杨欣/留学/乔治城/Wire Information - Georgetown.pdf
+Filtered out: F://杨欣/留学/乔治城/Yang, X- Two Yr Letter.pdf
+Filtered out: F://杨欣/留学/乔治城/Yang, Xin- Offer Letter.pdf
+Directory created: D:/abc/杨欣/留学/乔治城/finance
+Filtered out: F://杨欣/留学/乔治城/finance/bank statement3.pdf
+Filtered out: F://杨欣/留学/乔治城/finance/bank statement4.pdf
+Filtered out: F://杨欣/留学/乔治城/finance/bankstatements1.pdf
+Filtered out: F://杨欣/留学/乔治城/finance/bankstatements2.pdf
+Directory created: D:/abc/杨欣/留学/乔治城/PASSPORT
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816420.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816430.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816431.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816440.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816441.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816442.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816450.pdf
+Filtered out: F://杨欣/留学/乔治城/PASSPORT/SKMBT_C65417072816451.pdf
+Directory created: D:/abc/杨欣/留学/am
+Filtered out: F://杨欣/留学/am/HPSCANS.zip
+Filtered out: F://杨欣/留学/am/ielts.pdf
+Filtered out: F://杨欣/留学/am/recommand letters.rar
+Filtered out: F://杨欣/留学/am/~$学校名单.xlsx
+Filtered out: F://杨欣/留学/am/【2017年版】美国Top50法学院LLM选校指南（2017年4月25日版本） (1).pdf
+Filtered out: F://杨欣/留学/am/学校名单.xlsx
+Filtered out: F://杨欣/留学/am/推荐信2.docx
+Filtered out: F://杨欣/留学/am/文书.docx
+Filtered out: F://杨欣/留学/am/简历-1.docx
+Filtered out: F://杨欣/留学/am/简历.docx
+Filtered out: F://杨欣/留学/am/自荐信.docx
+Directory created: D:/abc/杨欣/留学/am/HPSCANS
+Filtered out: F://杨欣/留学/am/HPSCANS/bachelor.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/nanjing university 1.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/nanjing university 2.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/southeast university 1.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/southeast university 2.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描0002.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描0003.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描0004.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描0005.pdf
+Filtered out: F://杨欣/留学/am/HPSCANS/扫描0006.pdf
+Directory created: D:/abc/杨欣/留学/am/recommand letters
+Filtered out: F://杨欣/留学/am/recommand letters/1.docx
+Filtered out: F://杨欣/留学/am/recommand letters/Book1.xlsx
+Filtered out: F://杨欣/留学/am/recommand letters/Dear.docx
+Filtered out: F://杨欣/留学/am/recommand letters/Letter of recommendation-1.docx
+Filtered out: F://杨欣/留学/am/recommand letters/Letter of recommendation.docx
+Filtered out: F://杨欣/留学/am/recommand letters/letter1.pdf
+Filtered out: F://杨欣/留学/am/recommand letters/letter2.pdf
+Filtered out: F://杨欣/留学/am/recommand letters/ps-3.docx
+Filtered out: F://杨欣/留学/am/recommand letters/ps.docx
+Filtered out: F://杨欣/留学/am/recommand letters/recommand letters.rar
+Filtered out: F://杨欣/留学/am/recommand letters/self statement new.docx
+Filtered out: F://杨欣/留学/am/recommand letters/To live a meaningful life everyday.docx
+Filtered out: F://杨欣/留学/am/recommand letters/Xin Yan cv.docx
+Directory created: D:/abc/杨欣/留学/ps-3
+Filtered out: F://杨欣/留学/ps-3/ps-1000.docx
+Filtered out: F://杨欣/留学/ps-3/ps-3.docx
+Filtered out: F://杨欣/留学/ps-3/ps-500.docx
+Filtered out: F://杨欣/留学/ps-3/RESUME.docx
+Directory created: D:/abc/杨欣/留学/Re_ Re_ payment（06548938，yangxin）
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/2017 Certificate of Finances.doc
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/2017 Certificate of Finances.docx
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/2017 Certificate of Finances.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/Instructions for the Certification of Finances.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/payment.png
+Directory created: D:/abc/杨欣/留学/Re_ Re_ payment（06548938，yangxin）/finance
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/finance/bankstatements.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/finance/bankstatements2.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/finance/certificate of finances(yangxin).pdf
+Directory created: D:/abc/杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS/bankstatements.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS/bankstatements2.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS/扫描.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS/扫描0004.pdf
+Filtered out: F://杨欣/留学/Re_ Re_ payment（06548938，yangxin）/HPSCANS/扫描0005.pdf
+Directory created: D:/abc/杨欣/留学/recommand letters
+Filtered out: F://杨欣/留学/recommand letters/1.docx
+Filtered out: F://杨欣/留学/recommand letters/Book1.xlsx
+Filtered out: F://杨欣/留学/recommand letters/Example(2).pdf
+Filtered out: F://杨欣/留学/recommand letters/legal interest.docx
+Filtered out: F://杨欣/留学/recommand letters/Letter of recommendation-1.docx
+Filtered out: F://杨欣/留学/recommand letters/Letter of recommendation-3.docx
+Filtered out: F://杨欣/留学/recommand letters/Letter of recommendation.docx
+Filtered out: F://杨欣/留学/recommand letters/letter1.pdf
+Filtered out: F://杨欣/留学/recommand letters/letter2.pdf
+Filtered out: F://杨欣/留学/recommand letters/ps-1.docx
+Filtered out: F://杨欣/留学/recommand letters/ps-1000.docx
+Filtered out: F://杨欣/留学/recommand letters/ps-2.docx
+Filtered out: F://杨欣/留学/recommand letters/ps-3.docx
+Filtered out: F://杨欣/留学/recommand letters/ps-500.docx
+Filtered out: F://杨欣/留学/recommand letters/ps.docx
+Filtered out: F://杨欣/留学/recommand letters/RESUME.docx
+Filtered out: F://杨欣/留学/recommand letters/self statement new.docx
+Filtered out: F://杨欣/留学/recommand letters/To live a meaningful life everyday.docx
+Filtered out: F://杨欣/留学/recommand letters/Xin Yan cv.docx
+Filtered out: F://杨欣/留学/recommand letters/优秀公务员海外留学奖学金计划派出协议参考模板.doc
+Filtered out: F://杨欣/留学/recommand letters/六级.jpg
+Filtered out: F://杨欣/留学/recommand letters/在中国.docx
+Filtered out: F://杨欣/留学/recommand letters/学校名单.xlsx
+Filtered out: F://杨欣/留学/recommand letters/杨欣工作小结.doc
+Filtered out: F://杨欣/留学/recommand letters/获得荣誉-1.doc
+Filtered out: F://杨欣/留学/recommand letters/雅思.jpg
+Directory created: D:/abc/杨欣/留学/wfu
+Filtered out: F://杨欣/留学/wfu/COURSES-OFFERED-2016-2017.pdf
+Filtered out: F://杨欣/留学/wfu/Policy-on-Responsible-and-Ethical-Use-of-Computing-Resources.pdf
+Directory created: D:/abc/杨欣/留学/Your Official Acceptance Package from Wake Forest University School of Law (1)
+Filtered out: F://杨欣/留学/Your Official Acceptance Package from Wake Forest University School of Law (1)/2017 LLM Acceptance Packet.pdf
+Filtered out: F://杨欣/留学/Your Official Acceptance Package from Wake Forest University School of Law (1)/2017 LLM form.pdf
+Filtered out: F://杨欣/留学/Your Official Acceptance Package from Wake Forest University School of Law (1)/Yang, Xin Letter of Admission.pdf
+Directory created: D:/abc/杨欣/留学/南京大学
+Filtered out: F://杨欣/留学/南京大学/1f97b98e-e29e-45a0-a1cc-fa33040df10d.doc
+Filtered out: F://杨欣/留学/南京大学/659a4c2e-5645-4bec-bd60-341fa7b933e5.xls
+Filtered out: F://杨欣/留学/南京大学/c41adadb-2b6c-44be-9a46-75421634d3c5.doc
+Filtered out: F://杨欣/留学/南京大学/e35894e8-84ea-43c9-b5dc-6239b7c05568.doc
+Filtered out: F://杨欣/留学/南京大学/transcript of nanjing university(chinese).pdf
+Filtered out: F://杨欣/留学/南京大学/transcript of NanJng University.doc
+Filtered out: F://杨欣/留学/南京大学/专业学位成绩单.doc
+Filtered out: F://杨欣/留学/南京大学/专业学位证书.doc
+Filtered out: F://杨欣/留学/南京大学/学术类学位证书.doc
+Directory created: D:/abc/杨欣/留学/其他
+Filtered out: F://杨欣/留学/其他/2000350732.pdf
+Filtered out: F://杨欣/留学/面试问题.docx
+Filtered out: F://杨欣/留学/重点来1.docx
+Filtered out: F://杨欣/留学/重点来了.docx
+Directory created: D:/abc/杨欣/陈逸轩照片
+Filtered out: F://杨欣/陈逸轩照片/IMG_20170319_134811.jpg
+Filtered out: F://杨欣/陈逸轩照片/IMG_20170319_134918.jpg
+Filtered out: F://杨欣/陈逸轩照片/IMG_20170319_134723.jpg
+Filtered out: F://杨欣/陈逸轩照片/IMG_20170319_134843.jpg
+Directory created: D:/abc/杨欣/科学小院士
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT.zip
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文.zip
+Filtered out: F://杨欣/科学小院士/~$学小院士初稿.docx
+Filtered out: F://杨欣/科学小院士/科学小院士要求.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例.zip
+Directory created: D:/abc/杨欣/科学小院士/2015小院士汇报PPT
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/1-张瑞希-五2 科学小论文（神奇的柠檬）无动画最新版.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/10-李思瑶（曾用名：张熠然）五2-市场上买来的黑米有假货吗？.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/11-陆天一 五2-糖果溶化的速度.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/12-曹君泽《关于鱼缸养鱼的建议》.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/13-何晨曦 四3—有趣的光线折射.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/14-新-孙雨欣 神奇的大气压.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/15-焦天屹ppt2.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/2-新 徐稚皓-面拖黄鱼好吃的秘密.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/3-朱姮洁-四4 热水降温实验的探究.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/4-郭昱菲 五2-《生柿子快速成熟的小秘密》.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/5-曹祚浩 四5.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/6-新-孙浩宸---洁净餐具真的洁净吗？.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/8-新-方昕元+五（4）班.ppt.pptx
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/9-新-张轩泽-趣味科学小实验彩色花卉培育.ppt
+Directory created: D:/abc/杨欣/科学小院士/2015小院士汇报PPT/7-新-刘宇轩 《关于迷你多功能“尺”的探索》课题研究（2015.12.7）
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/7-新-刘宇轩 《关于迷你多功能“尺”的探索》课题研究（2015.12.7）/四（3）班  刘宇轩 《关于迷你多功能“尺”的探索》课题研究（2015.12.7）.ppt
+Filtered out: F://杨欣/科学小院士/2015小院士汇报PPT/7-新-刘宇轩 《关于迷你多功能“尺”的探索》课题研究（2015.12.7）/春野.mp3
+Directory created: D:/abc/杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/1-韩清倩-水果蔬菜变色大比拼.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/10-四（1）班 夏清禾  海水孵虾的秘密.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/11-四（2）班-晏维熙-科学小论文《花瓶养花的奥秘》.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/12-四4-夏子涵-快餐盒的自述.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/13-三（2）班 花正-密度的秘密.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/14-五5 戴品圣  如何保存香蕉的小探究.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/2-王永正-155克去哪了？.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/3-四1班周海天 金蝉保鲜的秘密.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/4-(五3班辛泽宇)巧妙利用大气压对鱼缸自动抽水.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/5-四（2）班张卓尔-废旧塑料瓶变身生态空调实验探究.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/6-四（1)班 许楚灵--去油污的妙计.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/7-五（3）班-袁子笑- 再生“再生纸”.docx
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/8- 四（2）班- 彭奕玮-《关于市售各类灯泡经济性的探究》.doc
+Filtered out: F://杨欣/科学小院士/2016年度鼓楼区第一中心小学小论文/9-四（5）班杨子琪《生活用水的小探究》.docx
+Directory created: D:/abc/杨欣/科学小院士/cyx
+Filtered out: F://杨欣/科学小院士/cyx/84+草酸.docx
+Filtered out: F://杨欣/科学小院士/cyx/原理来自龚老师.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士初稿.docx
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/1小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/1小时以后/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/三小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/三小时以后/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/开始时图片
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/全景1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/全景2.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/开始时图片/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170603
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/1小时以后/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/三小时以后/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/全景1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/全景2.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/小苏打.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/洗衣液.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/洗衣粉.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/白醋.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/花露水.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/酒精.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170603/开始时图片/风油精.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173909.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173912.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173915.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173918.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173922.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173924.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173928.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173930.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_173933.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/1小时以后/IMG_20170610_174536.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610/3小时后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/3小时后/IMG_20170610_175239.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165450.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165511.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165517.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165525.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165541.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165615.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165618.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165620.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165623.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165627.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165631.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165635.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165643.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165648.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/5分钟以后/IMG_20170610_165652.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164130.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164132.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164135.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164136_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164141.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164142.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164147.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164151.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164157.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164200.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164207.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164213.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164216.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164219.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164225.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164230.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164233.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164236.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/IMG_20170610_164237.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/开始时照片/VID_20170610_164122.mp4
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180059.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180100.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180111.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180122.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180127.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180135.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180135_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180143.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180144_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180152.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180159.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180204.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180206.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_180212.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_183104.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_183105.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_183147.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验一文件/20170610/漂洗过照片/IMG_20170610_183150.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验三褪色测试
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验三褪色测试/12小时以后
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/12小时以后/依次是原样，10% 20% 30% 12小时后褪色状态.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验三褪色测试/1小时后
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/1小时后/10% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/1小时后/20% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/1小时后/30% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/1小时后/全景.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验三褪色测试/初始图片
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/两种布放入 20% 84溶液中.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/两种布放入10%  84溶液中.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/两种布放入10% 20% 30% 84溶液中全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/两种布放入10% 84溶液中.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/红布初始图片.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验三褪色测试/初始图片/蓝布初始图片.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先84后草酸
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先84后草酸/15分钟以后放入2%草酸
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/15分钟以后放入2%草酸/2% 草酸 15分钟以后.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/15分钟以后放入2%草酸/2% 草酸 15分钟以后放入清水漂洗后.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/15分钟以后放入2%草酸/2% 草酸开始时.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先84后草酸/开始图片
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/开始图片/10% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/开始图片/5% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先84后草酸/开始图片/全景.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先草酸后84
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先草酸后84/2%草酸15分钟后放入84中
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/2%草酸15分钟后放入84中/10% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/2%草酸15分钟后放入84中/5% 84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/2%草酸15分钟后放入84中/两种浓度84全景.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/2%草酸15分钟后放入84中/两种浓度84半小时后取出很干净.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先草酸后84/5%草酸15分钟后放入84中
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/5%草酸15分钟后放入84中/10% 84开始图.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/5%草酸15分钟后放入84中/5% 84开始图.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/5%草酸15分钟后放入84中/两种浓度84一个小时后取出的合影.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/先草酸后84/草酸开始图
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/草酸开始图/2% 草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/草酸开始图/5%草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/先草酸后84/草酸开始图/全景.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/20170610
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/20170610/5分钟后
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/5分钟后/IMG_20170610_214248.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/5分钟后/IMG_20170610_214257.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/5分钟后/IMG_20170610_214331.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/5分钟后/IMG_20170610_214333_1.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/20170610/开始
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212508.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212510.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212656.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212658_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212742.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/20170610/开始/IMG_20170610_212756.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片/IMG_20170610_130636.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片/IMG_20170610_130647.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片/IMG_20170610_130650.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片/IMG_20170610_141615.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验二文件/肥皂粉和小苏打的图片/IMG_20170610_141621.jpg
+Filtered out: F://杨欣/科学小院士/cyx/新建 Microsoft PowerPoint 演示文稿.pptx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士初稿20170609 v1 cr.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士初稿20170610 v1 cr.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士初稿20170610 v2 cr.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士初稿20170611 v1 cr.docx
+Filtered out: F://杨欣/科学小院士/cyx/表格.xlsx
+Directory created: D:/abc/杨欣/科学小院士/cyx/准备工作图片
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_105735.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_105917.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_105921.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_105952.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_105954.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_110242.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_110248.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_110251.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_112935.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_112940.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_115309.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170528_121634.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_100313.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_100326.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_100624.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_100626.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_102445.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_102458.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_102459_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_110050.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_110131.jpg
+Filtered out: F://杨欣/科学小院士/cyx/准备工作图片/IMG_20170610_110150.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/实验四文件
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170610_235824.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170610_235846.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170610_235848_1.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_002220.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_002222.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_003112.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_003117.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_003617.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_003619.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_004305.jpg
+Filtered out: F://杨欣/科学小院士/cyx/实验四文件/IMG_20170611_004308.jpg
+Directory created: D:/abc/杨欣/科学小院士/cyx/科学小院士原理
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/84和草酸配合消除钢笔水的化学原理.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/84混合草酸.docx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/先泡入84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/先泡入草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/先草酸后84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/再泡入84.jpg
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/去污原理图一.png
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/去污原理图三.png
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/去污原理图二.png
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/去污原理图五.png
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/去污原理图四.png
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/新建 Microsoft Excel 工作表 (4).xlsx
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/然后泡入草酸.jpg
+Filtered out: F://杨欣/科学小院士/cyx/科学小院士原理/除去织物上的污渍的各原理.doc
+Directory created: D:/abc/杨欣/科学小院士/陈长明老师提供的小论文范例
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(1)鸡蛋悬浮实验的探究（致远王潘琦）.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(10)仙人掌的创面如何愈合更快.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(11)干净的马克杯赵晓昀.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(12)关于笔记本电脑支架的研究(2).doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(13)《适合盲人使用的安全插座》.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(14)《多用方便提手》课题研究结题论文-李文韬.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(15)多接口一体式打气头.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(16)关于牙膏开口包装方式的调查.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(17)《关于射水牙刷的研究发明》课题研究及制作过程.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(18)刘嫣然“包装粘稠液体塑料瓶改装新设计”.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(19)实用理发斗篷赵新宇.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(2)黄瓜流水了初稿.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(20)条形日用品尾部尖角变圆角刘育辰.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(3)黄瓜渗水的秘密.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(4)关于猕猴桃分期催熟的建议浦 炜.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(5)关于汽车接送结伴上学的研究王宇昂.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(6)喝豆浆的禁忌陆宇昕.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(7)生发绿豆芽报告.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(8)一次性筷子的秘密卞经皓.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/(9)揭开影响洗衣粉去污效果的因素之谜.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/01芳草园小学五3班王邵麟——齿轮齿条式升降课桌的研究02.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/03苹果变色的秘密（五（８）班　刘经哲03.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/04旋转的鸡蛋为什么会竖起来四（5）班方厚泽.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/05关于使生鸡蛋竖立的实验研究-四（7）班王一帆.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/06哪种瓶装水更适合你四（4）班  滕讯）01.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$)揭开影响洗衣粉去污效果的因素之谜.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$0)仙人掌的创面如何愈合更快.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$1)干净的马克杯赵晓昀.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$2)关于笔记本电脑支架的研究(2).doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$3)《适合盲人使用的安全插座》.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$3）怎样写科学小论文.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$4)《多用方便提手》课题研究结题论文-李文韬.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$5)多接口一体式打气头.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$6)关于牙膏开口包装方式的调查.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$关于使生鸡蛋竖立的实验研究-四（7）班王一帆.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$哪种瓶装水更适合你四（4）班  滕讯）01.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$旋转的鸡蛋为什么会竖起来四（5）班方厚泽.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$芳草园小学五3班王邵麟——齿轮齿条式升降课桌的研究02.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/~$苹果变色的秘密（五（８）班　刘经哲03.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/★第十二届中国少年科学院小院士课题研究活动的通知.docx
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/《白酒不能与什么同吃》论文-袁子珉.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/（21）观察土豆在不同液体中的变色情况.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/（22）小论文_王奇奇.doc
+Filtered out: F://杨欣/科学小院士/陈长明老师提供的小论文范例/（23）怎样写科学小论文.doc
+Directory created: D:/abc/音乐
+Filtered out: F://音乐/周杰伦 - 反方向的钟.MP3
+Filtered out: F://音乐/周杰伦 - 蓝色风暴.MP3
+Filtered out: F://音乐/周杰伦 - 夜曲.MP3
+Filtered out: F://音乐/周杰伦 - 以父之名.MP3
+Filtered out: F://音乐/周杰伦 - 床边故事.MP3
+Filtered out: F://音乐/周杰伦 - 说走就走.MP3
+Filtered out: F://音乐/周杰伦 - 同一种调调.MP3
+Filtered out: F://音乐/周杰伦 - 不能说的秘密.flac
+Filtered out: F://音乐/周杰伦 - 晴天.MP3
+Filtered out: F://音乐/周杰伦 - 最后的战役.MP3
+Filtered out: F://音乐/周杰伦 _ 潘儿 - 夜的第七章.MP3
+Filtered out: F://音乐/周杰伦 - 我不配.MP3
+Filtered out: F://音乐/周杰伦 - 听妈妈的话.MP3
+Filtered out: F://音乐/周杰伦 - 稻香.MP3
+Filtered out: F://音乐/周杰伦 _ 杨瑞代 - 我要夏天.MP3
+Filtered out: F://音乐/周杰伦 - 我落泪情绪零碎.MP3
+Filtered out: F://音乐/周杰伦 - 说了再见.MP3
+Filtered out: F://音乐/周杰伦 - 她的睫毛.MP3
+Filtered out: F://音乐/周杰伦 - 爷爷泡的茶.MP3
+Filtered out: F://音乐/周杰伦 - 爱情悬崖.MP3
+Filtered out: F://音乐/周杰伦 - 听见下雨的声音.MP3
+Filtered out: F://音乐/周杰伦 - 最长的电影.MP3
+Filtered out: F://音乐/周杰伦 - 半岛铁盒.MP3
+Filtered out: F://音乐/周杰伦 - 困兽之斗.MP3
+Filtered out: F://音乐/周杰伦 - 彩虹.MP3
+Filtered out: F://音乐/周杰伦 - 乱舞春秋.MP3
+Filtered out: F://音乐/周杰伦 - 止战之殇.MP3
+Filtered out: F://音乐/周杰伦 - 枫.MP3
+Filtered out: F://音乐/周杰伦 - 梯田.MP3
+Filtered out: F://音乐/周杰伦 - 断了的弦.MP3
+Filtered out: F://音乐/周杰伦 - 不爱我就拉倒.flac
+Filtered out: F://音乐/周杰伦 - 借口.MP3
+Filtered out: F://音乐/周杰伦 - 开不了口.MP3
+Filtered out: F://音乐/周杰伦 - 我是如此相信.MP3
+Filtered out: F://音乐/周杰伦 - 米兰的小铁匠.MP3
+Filtered out: F://音乐/周杰伦 - 雨下一整晚.MP3
+Filtered out: F://音乐/周杰伦 - 前世情人.MP3
+Filtered out: F://音乐/周杰伦 - 世界末日 (Live).MP3
+Filtered out: F://音乐/周杰伦 - 说好的幸福呢.MP3
+Filtered out: F://音乐/周杰伦 - 发如雪.MP3
+Filtered out: F://音乐/周杰伦 - 霍元甲.MP3
+Filtered out: F://音乐/周杰伦 - 跨时代.MP3
+Filtered out: F://音乐/周杰伦 - 兰亭序.MP3
+Filtered out: F://音乐/周杰伦 - 龙卷风.MP3
+Filtered out: F://音乐/周杰伦 - 星晴.MP3
+Filtered out: F://音乐/周杰伦 - 你听得到.MP3
+Filtered out: F://音乐/周杰伦 - 黑色幽默.MP3
+Filtered out: F://音乐/周杰伦 - 菊花台.MP3
+Filtered out: F://音乐/周杰伦 - 甜甜的.MP3
+Filtered out: F://音乐/周杰伦 - 园游会.MP3
+Filtered out: F://音乐/周杰伦 - 我的地盘.MP3
+Filtered out: F://音乐/周杰伦 - 爱在西元前.MP3
+Filtered out: F://音乐/周杰伦 - 将军.MP3
+Filtered out: F://音乐/周杰伦 - 烟花易冷.flac
+Filtered out: F://音乐/周杰伦 - 跨时代.flac
+Filtered out: F://2020级初三年级成绩分析表(6月）.xlsx
+Directory created: D:/abc/The Binding of Isaac - Repentance
+Filtered out: F://The Binding of Isaac - Repentance/api-ms-win-shcore-scaling-l1-1-1.dll
+Filtered out: F://The Binding of Isaac - Repentance/changelog.txt
+Filtered out: F://The Binding of Isaac - Repentance/dbghelp.dll
+Filtered out: F://The Binding of Isaac - Repentance/disable_lan_only.txt
+Filtered out: F://The Binding of Isaac - Repentance/DLC.txt
+Filtered out: F://The Binding of Isaac - Repentance/isaac-ng.exe
+Filtered out: F://The Binding of Isaac - Repentance/libogg.dll
+Filtered out: F://The Binding of Isaac - Repentance/libtheora.dll
+Filtered out: F://The Binding of Isaac - Repentance/libtheoraplayer.dll
+Filtered out: F://The Binding of Isaac - Repentance/libvorbis.dll
+Filtered out: F://The Binding of Isaac - Repentance/local_save.txt
+Filtered out: F://The Binding of Isaac - Repentance/Lua5.3.3f.dll
+Filtered out: F://The Binding of Isaac - Repentance/Lua5.3.3r.dll
+Filtered out: F://The Binding of Isaac - Repentance/lua51.dll
+Filtered out: F://The Binding of Isaac - Repentance/msvcp100.dll
+Filtered out: F://The Binding of Isaac - Repentance/msvcp110.dll
+Filtered out: F://The Binding of Isaac - Repentance/msvcr100.dll
+Filtered out: F://The Binding of Isaac - Repentance/msvcr110.dll
+Filtered out: F://The Binding of Isaac - Repentance/OpenAL32.dll
+Filtered out: F://The Binding of Isaac - Repentance/savedatapath.txt
+Filtered out: F://The Binding of Isaac - Repentance/steam_api.dll
+Filtered out: F://The Binding of Isaac - Repentance/steam_appid.txt
+Filtered out: F://The Binding of Isaac - Repentance/steam_interfaces.txt
+Filtered out: F://The Binding of Isaac - Repentance/unins000.dat
+Filtered out: F://The Binding of Isaac - Repentance/unins000.exe
+Filtered out: F://The Binding of Isaac - Repentance/vccorlib110.dll
+Directory created: D:/abc/The Binding of Isaac - Repentance/113200
+Directory created: D:/abc/The Binding of Isaac - Repentance/113200/remote
+Filtered out: F://The Binding of Isaac - Repentance/113200/remote/rep_gamestate1.dat
+Filtered out: F://The Binding of Isaac - Repentance/113200/remote/rep_persistentgamedata1.dat
+Filtered out: F://The Binding of Isaac - Repentance/113200/remote/rep_persistentgamedata2.dat
+Filtered out: F://The Binding of Isaac - Repentance/113200/remote/rep_persistentgamedata3.dat
+Directory created: D:/abc/The Binding of Isaac - Repentance/controller
+Filtered out: F://The Binding of Isaac - Repentance/controller/GamepadSetting.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/packed
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirth.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirthp.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirthp_jp.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirthp_kr.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirth_jp.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/afterbirth_kr.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/animations.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/config.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/fonts.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/graphics.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/music.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/readme.txt
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_de.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_es.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_fr.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_jp.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_kr.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_ru.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/repentance_zh.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/rooms.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/sfx.a
+Filtered out: F://The Binding of Isaac - Repentance/resources/packed/videos.a
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/enums.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/json.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/licenses
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/main.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/mobdebug.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket.lua
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts/linux32
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts/linux32/socket
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/linux32/socket/core.so
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts/linux64
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts/linux64/socket
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/linux64/socket/core.so
+Directory created: D:/abc/The Binding of Isaac - Repentance/resources/scripts/socket
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/core.dll
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/core.so
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/ftp.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/http.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/smtp.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/tp.lua
+Filtered out: F://The Binding of Isaac - Repentance/resources/scripts/socket/url.lua
+Directory created: D:/abc/The Binding of Isaac - Repentance/settings
+Filtered out: F://The Binding of Isaac - Repentance/settings/account_name.txt
+Filtered out: F://The Binding of Isaac - Repentance/settings/language.txt
+Filtered out: F://The Binding of Isaac - Repentance/settings/listen_port.txt
+Filtered out: F://The Binding of Isaac - Repentance/settings/user_steam_id.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/IsaacAnimationEditor
+Filtered out: F://The Binding of Isaac - Repentance/tools/IsaacAnimationEditor/IsaacAnimationEditor.exe
+Filtered out: F://The Binding of Isaac - Repentance/tools/IsaacAnimationEditor/Layout.dat
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/IsaacItemPoolEditor
+Filtered out: F://The Binding of Isaac - Repentance/tools/IsaacItemPoolEditor/Config.ini
+Filtered out: F://The Binding of Isaac - Repentance/tools/IsaacItemPoolEditor/ItemPoolEditor.exe
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/LuaDocs
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/annotated.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/annotated_dup.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/bc_s.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/bdwn.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/classes.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_entity_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_entity_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_entity_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_card_config_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_card_config_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_card_config_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_costume_config_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_costume_config_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_costume_config_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_effect_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_effect_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_effect_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_item_config_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_item_config_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_item_config_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_pill_config_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_pill_config_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_pill_config_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_vector_list-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_vector_list.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_cpp_container_1_1_vector_1_1_vector_list.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_bomb-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_bomb.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_bomb.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_bomb.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_effect-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_effect.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_effect.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_effect.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_familiar-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_familiar.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_familiar.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_familiar.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_knife-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_knife.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_knife.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_knife.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_laser-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_laser.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_laser.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_laser.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_n_p_c-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_n_p_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_n_p_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_n_p_c.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_pickup-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_pickup.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_pickup.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_pickup.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_player-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_player.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_player.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_player.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_projectile-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_projectile.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_projectile.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_projectile.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ptr-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ptr.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ptr.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ref-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ref.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_ref.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_tear-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_tear.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_tear.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_entity_tear.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_font-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_font.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_font.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_game-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_game.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_game.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_desc-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_desc.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_desc.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_door-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_door.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_door.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_door.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pit-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pit.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pit.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pit.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_poop-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_poop.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_poop.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_poop.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pressure_plate-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pressure_plate.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pressure_plate.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_pressure_plate.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_rock-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_rock.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_rock.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_rock.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_spikes-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_spikes.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_spikes.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_spikes.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_t_n_t-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_t_n_t.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_t_n_t.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_grid_entity_t_n_t.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_card-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_card.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_card.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_config-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_config.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_config.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_costume-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_costume.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_costume.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_item-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_item.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_item.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_pill_effect-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_pill_effect.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_config_1_1_pill_effect.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_pool-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_pool.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_item_pool.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_k_color-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_k_color.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_k_color.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_level-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_level.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_level.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_music_manager-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_music_manager.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_music_manager.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_path_finder-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_path_finder.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_path_finder.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_active_item_desc-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_active_item_desc.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_active_item_desc.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_pos_vel-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_pos_vel.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_player_types_1_1_pos_vel.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_projectile_params-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_projectile_params.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_projectile_params.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_queue_item_data-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_queue_item_data.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_queue_item_data.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_entry-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_entry.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_entry.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_room.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_spawn-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_spawn.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_config_1_1_spawn.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_descriptor-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_descriptor.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_room_descriptor.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_r_n_g-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_r_n_g.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_r_n_g.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_seeds-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_seeds.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_seeds.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_shockwave_params-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_shockwave_params.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_shockwave_params.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_sprite-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_sprite.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_sprite.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_s_f_x_manager-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_s_f_x_manager.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_s_f_x_manager.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_tear_params-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_tear_params.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_tear_params.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effect-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effect.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effect.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effects-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effects.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_temporary_effects.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_vector-members.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_vector.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/class_vector.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/closed.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/debugging.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/debug_console_primer.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/dir_13e138d54eb8818da29c3992edef070a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/dir_a2d58fb7888ad2b883830518a32eb42a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/dir_cec6eb25fd002d061157534415705f3f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/dir_f204ccf2c60e28fd06b75da8caf32b8c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/doc.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/doxygen.css
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/doxygen.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/dynsections.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/folderclosed.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/folderopen.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_dup.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_g.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_h.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_i.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_k.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_l.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_m.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_n.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_o.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_p.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_q.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_r.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_s.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_t.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_u.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_v.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_func_w.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_g.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_h.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_i.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_k.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_l.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_m.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_n.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_o.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_p.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_q.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_r.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_s.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_t.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_u.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_v.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_g.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_h.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_i.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_k.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_l.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_m.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_n.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_o.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_p.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_q.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_r.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_s.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_t.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_u.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_v.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_w.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_x.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_vars_y.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_w.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_x.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/functions_y.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/group__enums.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/group__enums.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/group__funcs.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/group__funcs.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/hierarchy.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/hierarchy.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/index.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/jquery.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/menu.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/menudata.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/modules.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/modules.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespacemembers.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespacemembers_func.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespaces.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespaces_dup.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_cpp_container.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_cpp_container.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_cpp_container_1_1_vector.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_cpp_container_1_1_vector.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_input.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_isaac.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_item_config.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_item_config.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_player_types.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_player_types.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_room_config.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/namespace_room_config.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtree.css
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtree.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreedata.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex12.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex13.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex14.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex15.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex16.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/navtreeindex9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/nav_f.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/nav_g.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/nav_h.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/open.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/pages.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/remarks.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/resize.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/screen_shaders.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/splitbar.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/sync_off.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/sync_on.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/tabs.css
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/tab_a.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/tab_b.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/tab_h.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/tab_s.png
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/LuaDocs/search
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_10.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_11.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_12.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_12.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_13.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_13.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_14.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_14.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_15.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_15.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_16.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_16.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_17.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_17.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_18.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_18.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_19.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_19.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/all_f.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/classes_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/close.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_10.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_11.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enums_f.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_10.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_11.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_12.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_12.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_13.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_13.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_14.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_14.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_15.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_15.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_16.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_16.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/enumvalues_f.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_10.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_11.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_12.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_12.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_13.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_13.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_14.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_14.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_15.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_15.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_16.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_16.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/functions_f.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/groups_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/groups_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/groups_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/groups_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/mag_sel.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/namespaces_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/nomatches.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/pages_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/search.css
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/search.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/searchdata.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/search_l.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/search_m.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/search_r.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_0.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_0.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_1.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_1.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_10.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_10.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_11.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_11.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_12.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_12.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_13.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_13.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_14.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_14.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_15.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_15.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_16.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_16.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_17.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_17.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_2.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_2.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_3.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_3.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_4.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_4.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_5.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_5.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_6.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_6.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_7.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_7.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_8.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_8.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_9.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_9.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_a.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_a.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_b.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_b.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_c.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_c.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_d.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_d.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_e.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_e.js
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_f.html
+Filtered out: F://The Binding of Isaac - Repentance/tools/LuaDocs/search/variables_f.js
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/ModUploader.exe
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/steam_api.dll
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/steam_appid.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/Linux
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/Linux/moduploader
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/Linux/ModUploader.bin
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/Linux/readme.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/Linux/steam_appid.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/Linux/lib64
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/Linux/lib64/libsteam_api.so
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Info.plist
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PkgInfo
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework/Versions/5/QtCore
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtCore.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework/Versions/5/QtGui
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtGui.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework/Versions/5/QtNetwork
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtNetwork.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5/QtPrintSupport
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtPrintSupport.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework/Versions/5/QtWidgets
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtWidgets.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework/Versions
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework/Versions/5
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework/Versions/5/QtXml
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework/Versions/5/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Frameworks/QtXml.framework/Versions/5/Resources/Info.plist
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/MacOS
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/MacOS/libsteam_api.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/MacOS/ModUploader
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/MacOS/steam_appid.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/bearer
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/bearer/libqcorewlanbearer.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/bearer/libqgenericbearer.dylib
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqdds.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqgif.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqicns.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqico.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqjpeg.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqmacjp2.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqtga.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqtiff.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqwbmp.dylib
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/imageformats/libqwebp.dylib
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/platforms
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/platforms/libqcocoa.dylib
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/printsupport
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/PlugIns/printsupport/libcocoaprintersupport.dylib
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Resources
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Resources/empty.lproj
+Filtered out: F://The Binding of Isaac - Repentance/tools/ModUploader/macOS/ModUploader.app/Contents/Resources/qt.conf
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ResourceExtractor
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/filelist.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/ResourceExtractor.exe
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/ResourceExtractor_log.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ResourceExtractor/Linux
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/Linux/filelist.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/Linux/resource_extractor
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/ResourceExtractor/macOS
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/macOS/filelist.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/macOS/Instructions.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/ResourceExtractor/macOS/ResourceExtractor
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/RoomEditor
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/blacklist.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/entities_custom.txt
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/RoomEditor.exe
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/rooms.txt
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/RoomEditor/icons
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/000.10.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/000.20.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/000.30.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.0.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.05.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.06.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.07.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.08.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.10.09.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.100.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.150.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.05.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.20.06.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.30.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.30.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.30.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.30.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.30.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.05.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.06.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.300.07.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.301.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.340.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.350.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.360.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.370.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.380.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.40.05.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.50.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.51.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.52.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.53.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.54.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.60.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.69.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.05.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.06.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.07.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.08.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.09.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.10.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.11.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.12.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.70.13.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/005.90.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.03.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.04.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.05.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.06.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.07.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.08.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.09.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/006.11.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/008.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/010.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/010.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/010.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/011.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/011.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/012.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/013.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/014.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/014.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/015.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/015.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/015.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/016.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/016.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/016.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/017.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/017.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/017.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/017.03.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/017.04.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/018.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/019.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/019.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/020.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/021.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/022.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/022.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/023.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/023.00.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/023.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/024.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/024.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/024.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/025.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/025.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/025.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/026.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/026.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/026.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/027.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/027.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/028.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/028.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/028.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/029.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/029.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/030.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/030.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/030.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/031.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/032.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/033.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/033.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/033.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/033.03.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/034.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/035.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/035.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/036.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/038.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/038.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/038.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/039.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/039.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/039.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/039.03.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/039.22.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.00.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.00.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.00.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.00.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/040.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/041.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/041.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/042.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/042.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/043.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/043.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/044.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/044.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/045.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/045.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/046.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/046.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/046.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/047.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/047.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/048.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/048.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/049.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/049.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/050.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/050.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/051.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/051.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/052.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/052.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/053.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/053.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/054.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/055.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/055.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/055.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/056.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/057.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/057.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/058.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/058.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/059.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/060.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/060.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/061.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/061.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/062.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/062.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/062.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/063.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/064.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/065.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/065.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/065.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/066.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/066.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/066.20.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/066.30.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/067.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/067.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/068.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/068.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/068.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/068.11.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/069.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/069.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/071.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/071.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/072.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/072.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/073.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/073.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/074.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/075.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/076.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/077.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/078.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/078.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/078.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.11.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/079.12.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/080.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/081.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/081.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/082.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/083.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/084.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/084.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/085.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/086.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/087.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/088.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/088.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/088.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/089.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/090.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/091.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/092.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/093.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/094.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/096.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/097.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/098.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/099.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/100.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/100.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1000.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1001.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1002.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/101.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/101.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/102.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/102.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/102.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1300.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1400.0..png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1410.0..png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1490.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1494.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1495.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1496.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1497.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1500.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1900.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1930.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1931.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/1940.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/201.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/202.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/202.00.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/202.00.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/202.00.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/203.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/203.00.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/203.00.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/203.00.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/204.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/205.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/206.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/206.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/207.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/207.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/208.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/208.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/208.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/209.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/210.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/211.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/212.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/212.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/213.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/214.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/215.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/216.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/216.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/216.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/217.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/217.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/217.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/218.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/218.00.01.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/218.00.02.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/218.00.03.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/218.00.04.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/219.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/220.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/220.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/221.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/222.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/223.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/224.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/225.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/226.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/226.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/227.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/228.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/228.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/229.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/230.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/231.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/231.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/234.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/235.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/236.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/237.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/237.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/237.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/238.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/239.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/240.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/241.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/242.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/243.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/244.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/246.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/246.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/247.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/248.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/249.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/250.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/251.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/251.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/252.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/253.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/254.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/255.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/256.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/257.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/257.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/258.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/259.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/260.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/260.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/261.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/261.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/261.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/262.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/263.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/264.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/265.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/266.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/266.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/266.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/267.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/268.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/269.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/270.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/271.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/271.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/272.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/272.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/273.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/273.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/273.10.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/274.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/274.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/274.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/275.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/275.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/275.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/276.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/277.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/278.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/279.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/280.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/281.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/282.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/283.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/284.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/285.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/286.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/287.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/288.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/289.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/290.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/291.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/291.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/291.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/292.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/295.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/296.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/297.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/298.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/299.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/300.0.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/3000.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/301.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/302.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/303.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/304.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/305.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/306.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/4000.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/401.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/402.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/403.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/404.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/404.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/405.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/406.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/407.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/408.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/409.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/409.01.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/409.02.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/410.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/411.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/412.00.00.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/4500.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/4500.1.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/4500.2.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/5000.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/5001.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/9000.0.png
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/icons/door.png
+Directory created: D:/abc/The Binding of Isaac - Repentance/tools/RoomEditor/Linux
+Filtered out: F://The Binding of Isaac - Repentance/tools/RoomEditor/Linux/RoomEditor

@@ -1,0 +1,4 @@
+to.txt：将文件（夹）复制到……（如，D:/new）
+usb.txt：从……复制走文件（如，F:/abc）
+filter.txt：控制筛选机制，如果里面写入了"filetypes"，则程序会读取filetypes.txt，并复制制定类型的文件，若文件为空，那么默认复制所有文件（如，filetypes）
+filetypes.txt：需要复制的文件类型，多个类型用空格隔开（如，.exe .ppt .doc .abc）
